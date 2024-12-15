@@ -1,0 +1,1 @@
+This repository stores various baseband signal files (in PicoScenes .bbsignals format) used for baseband correctness verification.
